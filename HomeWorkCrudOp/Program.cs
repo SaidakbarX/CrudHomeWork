@@ -102,7 +102,6 @@ namespace HomeWorkCrudOp
                 Console.Clear();
 
             }
-
         }
     }
 }
