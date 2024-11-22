@@ -101,14 +101,6 @@ namespace HomeWorkCrudOp
                 Console.ReadKey();
                 Console.Clear();
 
-
-
-
-
-
-
-
-
             }
 
         }
